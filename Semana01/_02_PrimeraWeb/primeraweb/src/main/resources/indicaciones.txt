@@ -1,0 +1,3 @@
+En la carpeta static se guarda css, imagenes y js y en templates se guarda solo html
+
+thymeleaf para conectar la vista
